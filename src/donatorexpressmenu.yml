@@ -1,0 +1,7 @@
+# Donator Express Menu Config File
+
+Items:
+- Name: name
+  ID: id
+  Position: pos
+  Command: cmd

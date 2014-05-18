@@ -1,0 +1,17 @@
+name: WastelandUtils
+main: me.sabbertran.wastelandutils.WastelandUtils
+version: 1.0
+website: http://www.sabbertran.tk/
+author: Sabbertran
+description: Utils for the Wasteland-Heroes.de Server
+commands:
+  buy:
+    description: Use to buy DonatorExpress Items
+    usage: "/buy"
+    aliases: [b]
+  moneyc:
+    description: Counts the coins in a chest
+    usage: "/moneyc"
+  gives:
+    description: Gives special Items
+    usage: "/gives"

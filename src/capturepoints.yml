@@ -1,0 +1,6 @@
+# Capture Points File
+
+- Name: name
+  Position: World,X,Y,Z
+  Radius: radius
+  Items: ID:amount, ID:amount, CS-cs_name:amount
