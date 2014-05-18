@@ -65,7 +65,7 @@ public class WastelandUtils extends JavaPlugin implements CommandExecutor
     @Override
     public void onDisable()
     {
-        log.info("WastelandUtils disabled");
+        log.info("WastelandUtils disabled!");
     }
 
     @Override
